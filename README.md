@@ -21,9 +21,10 @@ The Scapy Packet Capture Tool is a Python script designed to capture and log det
 ## Installation
 
 1. **Clone the repository**:
+
    ```sh
-   git clone https://github.com/your-username/scapy-packet-capture-tool.git
-   cd scapy-packet-capture-tool
+git clone https://github.com/your-username/scapy-packet-capture-tool.git
+cd scapy-packet-capture-tool
 
 2. **Install Scapy**:
     ```sh
