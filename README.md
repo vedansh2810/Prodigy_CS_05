@@ -33,5 +33,5 @@ The Scapy Packet Capture Tool is a Python script designed to capture and log det
 
 3. **Run the script:**
    
-```sh
+   ```sh
    python packet_capture.py
