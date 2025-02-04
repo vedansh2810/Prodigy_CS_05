@@ -8,7 +8,7 @@ def packet_callback(packet):
         src_ip = ip_layer.src
         dst_ip = ip_layer.dst
 
-        # Determine the protocol
+    # Determine the protocol
         protocol_name = ""
         if protocol == 1:
             protocol_name = "ICMP"
