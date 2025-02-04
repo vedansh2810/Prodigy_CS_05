@@ -29,6 +29,6 @@ The Scapy Packet Capture Tool is a Python script designed to capture and log det
 2. **Install Scapy**:
 
 ```sh 
-**pip install scapy**
+'''pip install scapy'''
 
 
